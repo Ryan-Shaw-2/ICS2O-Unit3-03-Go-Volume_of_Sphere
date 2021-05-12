@@ -1,1 +1,2 @@
 # ICS2O-Unit3-03-Go-Volume_of_Sphere
+[![GitHub's Super Linter](https://github.com/Ryan-Shaw-2/ICS2O-Unit3-03-Go-Volume_of_Sphere/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Ryan-Shaw-2/ICS2O-Unit3-03-Go-Volume_of_Sphere/actions)
